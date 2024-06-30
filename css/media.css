@@ -1,0 +1,55 @@
+@media (max-width:767px){
+    .sign {
+        width:300px;
+        height:400px;
+    }
+    .l_form h1 {
+        font-size: 2rem;
+    }
+    .container span {
+        width:3rem;
+        height:3rem;
+    }
+    .l_form .input input {
+        padding:.5rem;
+        font-size: .8rem;
+    }
+    .links a {
+        font-size: 14px;
+    }
+    .links a:last-child{
+        font-size: 1rem;
+    }
+.button button{
+    font-size: 1.3rem;
+    padding:3px 0;
+}
+}
+
+@media (max-width:991px){
+    .sign {
+        width:350px;
+        height:450px;
+    }
+    .l_form h1 {
+        font-size: 2.2rem;
+    }
+    .container span {
+        width:4rem;
+        height:4rem;
+    }
+    .l_form .input input {
+        padding:.6rem;
+        font-size: .8rem;
+    }
+    .links a {
+        font-size: 14px;
+    }
+    .links a:last-child{
+        font-size: 1.1rem;
+    }
+.button button{
+    font-size: 1.4rem;
+    padding:3px 0;
+}
+}
